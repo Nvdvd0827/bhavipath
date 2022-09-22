@@ -8,7 +8,7 @@ import Guidance from './components/pages/landingPage/Guidance';
 import Job from './components/pages/landingPage/Job';
 
 function App() {
-  return (
+  return ( 
     <>
     <div className='text-red-600'>
     
